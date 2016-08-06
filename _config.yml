@@ -18,15 +18,15 @@ logo: >-
 description: DJ / Producer
 color:
   saturation: 0.8432393509428948
-  brandStrength: 0.02785362559370697
-  rhythmicContrast: 0.5430975372437388
+  brandStrength: 0.5236305
+  lightness: 0.3073166601825505
   brandColors:
     - '#01204B'
     - '#FFFFFF'
     - '#026A86'
     - '#0293A7'
     - '#A1AF99'
-  lightness: 0.3073166601825505
+  rhythmicContrast: 0.5430975372437388
 typography_spectrum: 0.5998926
 navigation:
   - name: Follow
