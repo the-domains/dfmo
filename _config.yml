@@ -1,16 +1,16 @@
-typography_spectrum: 0.06820623
+typography_spectrum: 0.8021228418219835
 color:
-  saturation: 0.1925438
-  lightness: 0.2537147
-  brandStrength: 0.6875064
+  saturation: 0.8432393509428948
+  lightness: 0.30731666018255055
+  brandStrength: 0.027853625593706965
   brandColors:
-    - '#000000'
-    - '#ECEEE1'
-    - '#C1B4AB'
-    - '#897C73'
-    - '#3F3D4A'
-  rhythmicContrast: 0.6918033
-layout_spectrum: 0.2929755
+    - '#01204B'
+    - '#FFFFFF'
+    - '#026A86'
+    - '#0293A7'
+    - '#A1AF99'
+  rhythmicContrast: 0.5430975372437388
+layout_spectrum: 0.024832372553646564
 author:
   email: dfmomusic@gmail.com
 logo: >-
