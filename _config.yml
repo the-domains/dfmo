@@ -20,7 +20,7 @@ navigation:
   - name: Follow
     url: 'https://facebook.com/thedfmo'
     type: external
-  - name: Sounds of DFMO
+  - name: Listen
     url: 'https://mixcloud.com/dfmo'
     type: external
 title: DFMO
