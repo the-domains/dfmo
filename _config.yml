@@ -18,7 +18,7 @@ logo: >-
 description: DJ / Producer
 color:
   saturation: 0.8432393509428948
-  brandStrength: 1
+  brandStrength: 0.5193341
   lightness: 0.3073166601825505
   brandColors:
     - '#01204B'
