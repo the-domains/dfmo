@@ -1,21 +1,33 @@
-typography_spectrum: 0.8021228418219835
+author:
+  email: dfmomusic@gmail.com
+title: DFMO
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/b403146a-fa96-4e3a-8bf9-ac12271b91f9.png
+description: DJ / Producer
 color:
   saturation: 0.8432393509428948
-  lightness: 0.30731666018255055
-  brandStrength: 0.027853625593706965
+  brandStrength: 0.02785362559370697
+  rhythmicContrast: 0.5430975372437388
   brandColors:
     - '#01204B'
     - '#FFFFFF'
     - '#026A86'
     - '#0293A7'
     - '#A1AF99'
-  rhythmicContrast: 0.5430975372437388
-layout_spectrum: 0.024832372553646564
-author:
-  email: dfmomusic@gmail.com
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/b403146a-fa96-4e3a-8bf9-ac12271b91f9.png
-name: DFMO
+  lightness: 0.3073166601825505
+typography_spectrum: 0.5998926
 navigation:
   - name: Follow
     url: 'https://facebook.com/thedfmo'
@@ -23,5 +35,5 @@ navigation:
   - name: Listen
     url: 'https://mixcloud.com/dfmo'
     type: external
-title: DFMO
-description: DJ / Producer
+layout_spectrum: 0.02483237255364656
+name: DFMO
