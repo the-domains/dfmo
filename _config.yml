@@ -1,4 +1,3 @@
-layout_spectrum: 0.2929755
 typography_spectrum: 0.06820623
 color:
   saturation: 0.1925438
@@ -11,4 +10,10 @@ color:
     - '#897C73'
     - '#3F3D4A'
   rhythmicContrast: 0.6918033
+layout_spectrum: 0.2929755
+author:
+  email: dfmomusic@gmail.com
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/54447b2e-aaf0-46a9-8e14-6263e081418f.jpg
 name: DFMO
+title: DJ / Producer
