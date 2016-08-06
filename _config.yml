@@ -35,5 +35,5 @@ navigation:
   - name: Listen
     url: 'https://mixcloud.com/dfmo'
     type: external
-layout_spectrum: 0.02483237255364656
+layout_spectrum: 1
 name: DFMO
