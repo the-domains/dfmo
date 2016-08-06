@@ -20,5 +20,8 @@ navigation:
   - name: On Facebook
     url: 'https://facebook.com/thedfmo'
     type: external
+  - name: Sounds of DFMO
+    url: 'https://mixcloud.com/dfmo'
+    type: external
 title: DFMO
 description: DJ / Producer
